@@ -3,7 +3,7 @@ _Dec 2010_
 
 ## Advent Calender - Old code 12/1
 
-    |Mo|Tu|We|Th|Fr|Sa|Su|
+    |Su|Mo|Tu|We|Th|Fr|Sa|
     |  |  |  |  |--| 2| 3|
     | 4| 5| 6| 7| 8| 9|10|
     |11|12|13|14|15|16|17|
