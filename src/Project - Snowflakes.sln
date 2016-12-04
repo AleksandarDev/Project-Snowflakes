@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowflakes", "Snowflakes\Snowflakes\Snowflakes.csproj", "{6EDAB395-31F8-4D31-B0E8-48B7130FAD39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowflakesContent", "Snowflakes\SnowflakesContent\SnowflakesContent.contentproj", "{6DEEA1ED-F534-49DB-9F85-BD40A1F9C28D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowflake.Core", "Snowflake.Core\Snowflake.Core.csproj", "{2B2F2C9D-E050-4959-B68C-ACAEA697D7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smokes", "Smokes\Smokes\Smokes.csproj", "{8B47D462-FF54-45D8-B019-0759C7393FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmokesContent", "Smokes\SmokesContent\SmokesContent.contentproj", "{99362440-F626-4C7B-BBBE-DA27FB8FC114}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Smoke", "Smoke", "{5ED5E3DB-91B3-4EFB-8235-417ECEEE7678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDAB395-31F8-4D31-B0E8-48B7130FAD39}.Debug|x86.ActiveCfg = Debug|x86
+		{6EDAB395-31F8-4D31-B0E8-48B7130FAD39}.Debug|x86.Build.0 = Debug|x86
+		{6EDAB395-31F8-4D31-B0E8-48B7130FAD39}.Release|x86.ActiveCfg = Release|x86
+		{6EDAB395-31F8-4D31-B0E8-48B7130FAD39}.Release|x86.Build.0 = Release|x86
+		{6DEEA1ED-F534-49DB-9F85-BD40A1F9C28D}.Debug|x86.ActiveCfg = Debug|x86
+		{6DEEA1ED-F534-49DB-9F85-BD40A1F9C28D}.Release|x86.ActiveCfg = Release|x86
+		{2B2F2C9D-E050-4959-B68C-ACAEA697D7E5}.Debug|x86.ActiveCfg = Debug|x86
+		{2B2F2C9D-E050-4959-B68C-ACAEA697D7E5}.Debug|x86.Build.0 = Debug|x86
+		{2B2F2C9D-E050-4959-B68C-ACAEA697D7E5}.Release|x86.ActiveCfg = Release|x86
+		{2B2F2C9D-E050-4959-B68C-ACAEA697D7E5}.Release|x86.Build.0 = Release|x86
+		{8B47D462-FF54-45D8-B019-0759C7393FD6}.Debug|x86.ActiveCfg = Debug|x86
+		{8B47D462-FF54-45D8-B019-0759C7393FD6}.Debug|x86.Build.0 = Debug|x86
+		{8B47D462-FF54-45D8-B019-0759C7393FD6}.Release|x86.ActiveCfg = Release|x86
+		{8B47D462-FF54-45D8-B019-0759C7393FD6}.Release|x86.Build.0 = Release|x86
+		{99362440-F626-4C7B-BBBE-DA27FB8FC114}.Debug|x86.ActiveCfg = Debug|x86
+		{99362440-F626-4C7B-BBBE-DA27FB8FC114}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8B47D462-FF54-45D8-B019-0759C7393FD6} = {5ED5E3DB-91B3-4EFB-8235-417ECEEE7678}
+		{99362440-F626-4C7B-BBBE-DA27FB8FC114} = {5ED5E3DB-91B3-4EFB-8235-417ECEEE7678}
+	EndGlobalSection
+EndGlobal
